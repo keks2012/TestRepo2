@@ -5,4 +5,7 @@
 			return NIL;
 		}
 		
+		function Fuck2 () {
+			return NIL;
+		}
 	}
