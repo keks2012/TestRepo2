@@ -12,4 +12,8 @@
         function Fuck3 () {
             return NIL;
         }
+
+        function Fuck4 () {
+            return NIL;
+        }
 	}
