@@ -8,4 +8,8 @@
 		function Fuck2 () {
 			return NIL;
 		}
+
+        function Fuck3 () {
+            return NIL;
+        }
 	}
